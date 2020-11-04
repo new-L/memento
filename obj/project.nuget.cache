@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgzft5rR1SQ9XKO8FJFO1RLkThSQfkSs29h+Rk8n2vq2n5GGBKK9OK40uBYTjt/t6ZUuQvJuA157ZSnWkh5YGg==",
+  "success": true,
+  "projectFilePath": "D:\\C#Project\\Memento\\Memento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
